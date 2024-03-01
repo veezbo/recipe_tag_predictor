@@ -1,5 +1,7 @@
 # Recipe Tag Predictor
 
+![RecipeTagPredictor](assets/recipe_tag_predictor.png)
+
 ## Abstract
 This is a small test project to determine if it's possible  fine-tune a language model for a Seq2Seq task, despite the output sequence not requiring a specific order. As a case study, we focus on being able to predict tags in recipes.
 
